@@ -1,1 +1,4 @@
-df -h | awk 'BEGIN {print  "\tMounted point\t\tSize\tUsed\tAvail\tUse%\tFilesystem"}$NF ~ /.media.*/ {print "\t"$NF,"\t"$2,"\t"$3,"\t"$4,"\t"$5"\t"$1}' 
+media_disk(){
+df -h | awk 'BEGIN {print  "\tMounted point\t\tSize\tUsed\tAvail\tUse%\tFilesystem"}$NF ~ /.media.*/ {print "\t"$NF,"\t"$2,"\t"$3,"\t"$4,"\t"$5"\t"$1}'
+}
+alias media=media_disk
