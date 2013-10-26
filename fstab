@@ -1,0 +1,29 @@
+UUID=24c1a030-2d25-4359-acb3-2d6596f1f8e8       /media/StoCk_3To        ext4    defaults        0       0
+
+UUID=6aae7040-d11f-47da-9e84-6624738eb4a5       /media/StoCk_3To_2      ext4    defaults        0       0
+
+UUID=c14333bb-4cf3-4bd8-ab87-489a2170d267       /media/StoCk_3To_3      ext4    defaults        0       0
+
+UUID=807c10d3-63a0-41ae-969b-cbc2269cc4ff       /media/StoCk_3To_4      ext4    defaults        0       0
+
+
+UUID=9052B34E52B337B4   /media/StoCk_Series     ntfs-3g defaults        0       0
+
+UUID=23416FED536CFC03   /media/StoCk_Series_2   ntfs-3g defaults        0       0
+
+UUID=2AB881A1B8816BDF   /media/StoCk_750        ntfs-3g defaults        0       0
+
+UUID=6490A89D90A87768   /media/StoCk_Clips      ntfs-3g defaults        0       0
+
+UUID=BAB8631AB862D503   /media/StoCk_DOCS       ntfs-3g default         0       0
+
+UUID=69FD2DAE1128E11B   /media/StoCk_1To5       ntfs-3g defaults        0       0
+
+UUID=3AFC3041FC2FF633   /media/StoCk_Music      ntfs-3g defaults        0       0
+
+
+#UUID=48E84F9AE84F84E2  /media/Elements         ntfs-3g defaults        0       0
+#UUID=6A2464A5246475CB  /media/VM_300           ntfs-3g defaults        0       0
+#UUID=EA6854D268549F5F  /media/MyPassport       ntfs-3g defaults        0       0
+#UUID=768C39308C38EBED  /media/StoCk_HD_2To_1   ntfs-3g defaluts        0       0
+
