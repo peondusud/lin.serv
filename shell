@@ -7,4 +7,7 @@ alias media=media_disk
 rm_by_date(){
 cd /home/downloads/xnl/.session/
 ls -l  |grep "^-.*Mar  2" |awk '{print $9}'|xargs rm
+
+pathz=/home/downloads/xnl/.session/
+ls -l |awk '/Mar  2/{print $path$9}'|xargs rm
 }
